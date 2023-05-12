@@ -1,5 +1,3 @@
-
-House Price Prediction
 This is a repository for a House Price Prediction project. The project aims to predict the prices of houses based on their features. The prediction is done using machine learning algorithms.
 
 Requirements
