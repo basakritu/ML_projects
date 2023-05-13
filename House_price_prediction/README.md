@@ -41,9 +41,3 @@ Contributions to this project are welcome. To contribute, please follow these st
 ## Credits
 
 This project was developed by Rituparna Basak. It is based on the House Prices: Advanced Regression Techniques competition on Kaggle.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-I hope this helps! Let me know if you have any other questions or need further assistance.
