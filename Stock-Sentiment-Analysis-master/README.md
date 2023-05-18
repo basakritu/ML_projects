@@ -1,5 +1,3 @@
-Here's an example README file for your Sentiment Analysis project that you can modify and use as a starting point:
-
 # Sentiment Analysis
 
 This is a repository for a Sentiment Analysis project. The project aims to classify the sentiment of text into positive, negative, or neutral categories using natural language processing (NLP) techniques and machine learning algorithms.
