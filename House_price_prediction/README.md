@@ -1,5 +1,3 @@
-Great! Here's an example README file for your project that you can modify and use as a starting point:
-
 # House Price Prediction
 
 This is a repository for a house price prediction project. The project aims to predict the prices of houses based on their features using machine learning algorithms.
