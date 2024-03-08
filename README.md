@@ -14,6 +14,6 @@ This is a repository for a Sentiment Analysis project. The project aims to class
 # Healthcare  Project
 This is a repository for the Diabetic Dataset project. The project aims to analyze and predict the readmission of diabetic patients to the hospital using machine learning algorithms.
 
-# Random_Forest
+# Random Forest
 This folder has different datasets on which I have applied Random Forest and insightful data analysis.
 
