@@ -8,7 +8,7 @@ In this  folder, I have implemented the Resnet18 pre-trained model to classify b
 # House Price Prediction
 This is a repository for a house price prediction project. The project aims to predict the prices of houses based on their features using machine learning algorithms.
 
-# Sentiment Analysis
+# Stock Sentiment Analysis
 This is a repository for a Sentiment Analysis project. The project aims to classify the sentiment of text into positive, negative, or neutral categories using natural language processing (NLP) techniques and machine learning algorithms.
 
 # Healthcare  Project
